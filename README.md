@@ -14,6 +14,7 @@ Trying to Improving the accuracy of CNN
 > - The 7x7, 5x5 and 3x3 convolution filters pixels were changed to 7x7 for all layers.
 > - The following image shows this model. the model can go dipper but will demand a lot of training time in CPU. Still on modification to get more accuracy.
 ---
+![CNN ARCHITECTURE](https://github.com/ZukisaNante/DEEP-IMPROVED-FACE-RECOGNITION-USING-CNN/blob/main/images/15_09.png)
 
 Model: "sequential"
 _________________________________________________________________
