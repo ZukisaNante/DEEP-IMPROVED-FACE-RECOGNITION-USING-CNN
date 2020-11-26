@@ -10,6 +10,6 @@ Trying to Improving the accuracy of CNN
 ![CNN ARCHITECTURE](https://github.com/ZukisaNante/DEEP-IMPROVED-FACE-RECOGNITION-USING-CNN/blob/main/images/15_09.png)
 ---
 ### Modifications in the code
-> CNN architecture was changed as you can see the model.summary() from the code.
-> The 7x7, 5x5 and 3x3 convolution filters pixels were changed to 7x7 for all layers.
+> - CNN architecture was changed as you can see the model.summary() from the code.
+> - The 7x7, 5x5 and 3x3 convolution filters pixels were changed to 7x7 for all layers.
 ---
