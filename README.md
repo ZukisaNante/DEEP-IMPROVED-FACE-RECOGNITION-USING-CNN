@@ -1,3 +1,6 @@
 # DEEP-IMPROVED-FACE-RECOGNITION-USING-CNN
-Try to Improving the accuracy of CNN
+Trying to Improving the accuracy of CNN
 ---
+## CNN Neural Network Architecture
+---
+!
