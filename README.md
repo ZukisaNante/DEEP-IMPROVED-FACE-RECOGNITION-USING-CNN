@@ -57,3 +57,8 @@ Total params: 88,630,716
 Trainable params: 88,630,716
 Non-trainable params: 0
 _________________________________________________________________
+---
+#### CODE
+> - Code can be seen and copied from fr_test_one file and the jupyter notebook will be FR_USING_CNN.ipynb .
+> - The code is till under modifications as more accuracy is attempted. 
+> - the accuracy of 96.88% was achieved from 300 epochs, meanind increasing this number but observing for overfitting the accuracy promises to increase.
